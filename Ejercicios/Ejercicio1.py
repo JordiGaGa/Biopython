@@ -22,3 +22,5 @@ for field in record["DbInfo"]["FieldList"]:
   if field["Name"] == "ALL":
     print(field["Description"])
     exit
+
+handle.close()

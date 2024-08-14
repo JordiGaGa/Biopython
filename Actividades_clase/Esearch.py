@@ -11,8 +11,8 @@ from pprint import pprint  # para mejor visualización de diccionarios!!
 
 # Correo
 Entrez.email = "jordigg@lcg.unam.mx"  # IMPORTANTE!!!
-handle = Entrez.esearch(db = "pubmed", term = "biopython")
-record = Entrez.read(handle)
+#handle = Entrez.esearch(db = "pubmed",term = "biopython")
+#record = Entrez.read(handle)
 
 # Programa para contar y ver las keys de un campo (pubmed de python en concreto)
 """ 
@@ -30,15 +30,13 @@ print(record["IdList"])  # ids de artículos
 print(record["Count"])
 handle.close()
 """
-"""
 # Código para hallar ciertos artículos en base a ciertos parámetros 
 termino = "(Aedes[Title] OR Aedes[All Fields])AND((RNA-Seq[Title] XOR transcriptomic[Title]) OR (transcriptome[Title] OR sequencing[Title]))"
 # Con OR da 171 y con XOR da 136
-handle = Entrez.esearch(db="pubmed", term=termino)
-result = Entrez.read(handle)
+handle2 = Entrez.esearch(db="pubmed", term=termino)
+result = Entrez.read(handle2)
 print(result["Count"])  #cuantos encontró
 print(result["IdList"]) # lista de los primero 20
-"""
 
 #ESpell
 #Obtengo la manera correcta de escribir mi pregunta.
@@ -58,9 +56,10 @@ print(len(record))
 print(record[1].keys())
 print(record[1]["Id"])
 """
-
+"""
 # pickle 
 # Tamaño de archivos 
 import pickle
 ## tamaño del record deseado
 print(len(pickle.dumps(record))) #tamaño esummary
+"""

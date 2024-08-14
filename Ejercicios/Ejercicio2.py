@@ -1,0 +1,38 @@
+# ===========================================================================
+# =                            imports
+# ===========================================================================
+
+from Bio import Entrez
+from pprint import pprint  # para mejor visualización de diccionarios!!
+
+# ===========================================================================
+# =                            Main
+# ===========================================================================
+
+Entrez.email = "jordigg@lcg.unam.mx" # Correo
+handle = Entrez.einfo(db = "protein") # indicar db (base de datos) de interes
+record = Entrez.read(handle) #Se lee la base de datos 
+"""
+Primera parte
+"""
+# Obtener y mostrar la descripción del campo "ECNO"
+for field in record["DbInfo"]["FieldList"]:
+    if field["Name"] == "ECNO":
+        print("Descripción de ECNO:",field["Description"])
+
+# Obtener y mostrar la descripción del enlace "protein_protein_small_genome"
+for link in record["DbInfo"]["LinkList"]:
+    if link["Name"] == "protein_protein_small_genome":
+        print("Descripción de protein_protein_small_genome:",link["Description"])
+
+handle.close()
+"""
+Segunda parte
+"""
+termino = "(Lev Salnikov[Author]) AND (rejuvenation[Title] OR rejuvenation[Title])"
+#Lo que vamos a buscar con los ámbitos de autor y título con posibilidad de ser modificados cambiando los nombres
+handle2 = Entrez.esearch(db="pubmed", term=termino)
+result = Entrez.read(handle2)
+handle2.close()
+
+print(result["IdList"])
