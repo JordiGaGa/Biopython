@@ -1,3 +1,8 @@
+"""
+1. Genera una consulta con Entrez.einfo a la base de datos de pubmed, para imprimir el nombre y la descripción de todos los FieldList
+
+2.  Repite la consulta anterior, pero sin usar un iterador, imprime la descripción solo del primer elemento de la lista de los FieldList.
+"""
 # ===========================================================================
 # =                            imports
 # ===========================================================================

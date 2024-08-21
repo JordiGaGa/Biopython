@@ -1,3 +1,21 @@
+"""
+Primera parte
+
+Empleando Entrez.einfo y Entrez.read, imprime la descripción de los siguientes campos de la base de datos "protein":
+
+FieldList "ECNO"
+LinkList "protein_protein_small_genome"
+Segunda parte
+
+Automatizar lo siguiente:
+
+Búsqueda con esearch de ciertx autorx y ciertas palabra en el título (con posibilidad de cambiar búsqueda) Ejemplo: J. Collado vides (como autor) Y ( regulon (en título del artículo) O regulación (en título del artículo) )
+
+Guardar los IDs de los artículos en un archivo
+"""
+
+
+
 # ===========================================================================
 # =                            imports
 # ===========================================================================
