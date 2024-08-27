@@ -57,7 +57,7 @@ with open(filename, 'r') as f:
         
         for i in range(min_len): 
             if tax1[i] != tax2[i]: 
-                print(f"Los organismos difieren en la categoría {i+1}: {tax1[i]} y {tax2[i]}")
+                print(f"Los organismos difieren a partir de la categoría {tax1[i-1]}")
                 exit()
        
        
