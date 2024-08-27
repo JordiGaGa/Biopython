@@ -14,7 +14,7 @@ Guardar los IDs de los artículos en un archivo
 from Bio import Entrez
 
 # ===========================================================================
-# =                            Main
+# =                            functions
 # ===========================================================================
 
 # Función para realizar la búsqueda en PubMed
@@ -32,10 +32,15 @@ def Archivo_IDs(ids, filename):
         for id in ids:
             f.write(f"{id}\n")
 
-# Ejemplo de uso
-autor = input("Introduce al autor: ") #"Lev Salnikov"  # Autor a buscar
-palabra1 = input("Introduce la primera palabra clave: ") #"rejuvenation OR aging"  # Palabras clave en el título
-palabra2 = input("Introduce la segunda palabra clave: ")
+
+# ===========================================================================
+# =                            Main
+# ===========================================================================
+
+
+autor = input("Introduce al autor: ")   # Autor a buscar "Lev Salnikov"
+palabra1 = input("Introduce la primera palabra clave: ")   # 1° Palabra clave en el título "rejuvenation" 
+palabra2 = input("Introduce la segunda palabra clave: ")   # 2° Palabra clave en el título "aging"
 ids = Busqueda_articulos(autor, palabra1, palabra2)
 
 # Guardar los IDs en un archivo

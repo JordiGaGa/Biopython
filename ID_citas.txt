@@ -1,0 +1,43 @@
+
+
+
+=======================ABSTRACT 1========================
+
+
+1. Front Aging. 2024 Jul 29;5:1429156. doi: 10.3389/fragi.2024.1429156.
+eCollection  2024.
+
+Cell autocloning as a pathway to their real rejuvenation.
+
+Salnikov L(1).
+
+Author information:
+(1)AntiCA Biomed, San Diego, CA, United States.
+
+The article gives a brief description of geroprotection and rejuvenation methods 
+known to date, presenting their main mechanisms and limitations. To overcome the 
+main limitations of the process of rejuvenation, it is possible to use a process 
+called "cell autocloning." The principle of the proposed method of rejuvenation 
+is as follows: a periodic process of autocloning of the cell nucleus is 
+initiated in the cellular genome with the formation of one unstable daughter 
+copy and its subsequent self-elimination. In this case, the process of cell 
+division stops in the phase of nuclei divergence without subsequent physical 
+separation of the cell itself. This is especially important for postmitotic 
+cells, where the looping of the "unidirectional" line of the ontogenesis program 
+into a "ring" will mean their transition into renewable cells. The prototype for 
+autocloning mechanisms could be the already known ways in which cells adapt to 
+the increasing amount of their damage over time. These are polyploidy and 
+asymmetric cell division, relying on which it is possible to obtain a renewable 
+process of cell nuclei division, when only the original nucleus remains as a 
+result of division. Although this is not a simple task, there are possible 
+pathways to its solution using approaches that can suggest modern knowledge from 
+the field of molecular and cell biology and genetics. The realization of such a 
+goal will require a lot of work, but the expected result justifies it.
+
+Copyright © 2024 Salnikov.
+
+DOI: 10.3389/fragi.2024.1429156
+PMCID: PMC11317467
+PMID: 39136004
+
+Conflict of interest statement: Author LS, employed by AntiCa Biomed.

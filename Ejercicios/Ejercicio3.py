@@ -18,36 +18,49 @@ Punto Opcional:  ¿como compararías ambas linajes para que la respuesta fuera a
 from Bio import Entrez
 
 # ===========================================================================
-# =                            Main
+# =                            functions
 # ===========================================================================
-Entrez.email = "jordigg@lcg.unam.mx" # Correo
-handle = Entrez.esearch(db = "Taxonomy", term="Notoryctes typhlops[Orgn] OR Chrysochloris asiatica[Orgn]") # indicar db (base de datos) de interes
-record = Entrez.read(handle)
-ids = record["IdList"]
 
-def Archivo_IDs(ids, filename): # Se crea archivo con IDs obtenidos de los 2 organismos
+# Se crea archivo con IDs obtenidos de los 2 organismos
+def Archivo_IDs(ids, filename):
     with open(filename, 'w') as f:
         for id in ids:
             f.write(f"{id}\n")
 
-filename = "IDs.txt"
-Archivo_IDs(ids, filename)
+# ===========================================================================
+# =                            Main
+# ===========================================================================
+Entrez.email = "jordigg@lcg.unam.mx" # Correo
+# Introducir base de datos y organismos a checar (diferentes obviamente)
+handle = Entrez.esearch(db = "Taxonomy", term="Notoryctes typhlops[Orgn] OR Chrysochloris asiatica[Orgn]")
+# Indicar db (base de datos) de interes
+record = Entrez.read(handle)
+ids = record["IdList"]
+filename = "IDs_organisms.txt"
 
-with open(filename, 'r') as f:  # Se abre el archivo y se lee
+Archivo_IDs(ids, filename)
+print(f"Se ha creado archivo {filename} con los ID de los organismos")
+# Se abre el archivo y se lee
+with open(filename, 'r') as f:
     org1 = 0
     for num, id_taxo in enumerate(f):
         handle2 = Entrez.efetch(db="Taxonomy", id=id_taxo, retmode="xml")
-        org2 = Entrez.read(handle2) # Se queda el segundo organismo
+        # Se queda el segundo organismo
+        org2 = Entrez.read(handle2)
         if num == 0:
-            org1 = org2[0]["Lineage"] # Se guarda el primer organismo
-
+            # Se guarda el primer organismo
+            org1 = org2[0]["Lineage"]
         tax1 = org1.split(";")
         tax2 = org2[0]["Lineage"].split(";") 
-        min_len = min(len(tax1), len(tax2)) # Se analiza la longitud en palabras de ambos para tomar la mínima para el ciclo for
+        min_len = min(len(tax1), len(tax2))
+        # Se analiza la longitud en palabras de ambos para tomar la mínima para el ciclo for
+        
         for i in range(min_len): 
             if tax1[i] != tax2[i]: 
                 print(f"Los organismos difieren en la categoría {i+1}: {tax1[i]} y {tax2[i]}")
                 exit()
+       
+       
 
 
 
