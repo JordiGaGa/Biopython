@@ -4,43 +4,64 @@
 =======================ABSTRACT 1========================
 
 
-1. Front Aging. 2024 Jul 29;5:1429156. doi: 10.3389/fragi.2024.1429156.
-eCollection  2024.
+1. Stem Cell Reports. 2024 May 14;19(5):710-728. doi:
+10.1016/j.stemcr.2024.04.005.  Epub 2024 May 2.
 
-Cell autocloning as a pathway to their real rejuvenation.
+H1FOO-DD promotes efficiency and uniformity in reprogramming to naive 
+pluripotency.
 
-Salnikov L(1).
+Kunitomi A(1), Hirohata R(2), Osawa M(3), Washizu K(4), Arreola V(4), Saiki 
+N(3), Kato TM(2), Nomura M(2), Kunitomi H(4), Ohkame T(3), Ohkame Y(3), 
+Kawaguchi J(5), Hara H(5), Kusano K(5), Yamamoto T(6), Takashima Y(3), Tohyama 
+S(7), Yuasa S(7), Fukuda K(7), Takasu N(2), Yamanaka S(8).
 
 Author information:
-(1)AntiCA Biomed, San Diego, CA, United States.
+(1)Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto 
+606-8507, Japan; Gladstone Institute of Cardiovascular Disease, San Francisco, 
+CA 94158, USA. Electronic address: akira.kunitomi@gladstone.ucsf.edu.
+(2)Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto 
+606-8507, Japan; CiRA Foundation, Kyoto 606-8397, Japan.
+(3)Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto 
+606-8507, Japan.
+(4)Gladstone Institute of Cardiovascular Disease, San Francisco, CA 94158, USA.
+(5)ID Pharma Co., Ltd, Ibaraki 300-2611, Japan.
+(6)Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto 
+606-8507, Japan; Institute for the Advanced Study of Human Biology (WPI-ASHBi), 
+Kyoto University, Kyoto 606-8501, Japan; Medical-risk Avoidance Based on iPS 
+Cells Team, RIKEN Center for Advanced Intelligence Project (AIP), Kyoto 
+606-8507, Japan.
+(7)Department of Cardiology, Keio University School of Medicine, Tokyo 160-8582, 
+Japan.
+(8)Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto 
+606-8507, Japan; Gladstone Institute of Cardiovascular Disease, San Francisco, 
+CA 94158, USA; CiRA Foundation, Kyoto 606-8397, Japan; Department of Anatomy, 
+University of California, San Francisco, San Francisco, CA 94143, USA.
 
-The article gives a brief description of geroprotection and rejuvenation methods 
-known to date, presenting their main mechanisms and limitations. To overcome the 
-main limitations of the process of rejuvenation, it is possible to use a process 
-called "cell autocloning." The principle of the proposed method of rejuvenation 
-is as follows: a periodic process of autocloning of the cell nucleus is 
-initiated in the cellular genome with the formation of one unstable daughter 
-copy and its subsequent self-elimination. In this case, the process of cell 
-division stops in the phase of nuclei divergence without subsequent physical 
-separation of the cell itself. This is especially important for postmitotic 
-cells, where the looping of the "unidirectional" line of the ontogenesis program 
-into a "ring" will mean their transition into renewable cells. The prototype for 
-autocloning mechanisms could be the already known ways in which cells adapt to 
-the increasing amount of their damage over time. These are polyploidy and 
-asymmetric cell division, relying on which it is possible to obtain a renewable 
-process of cell nuclei division, when only the original nucleus remains as a 
-result of division. Although this is not a simple task, there are possible 
-pathways to its solution using approaches that can suggest modern knowledge from 
-the field of molecular and cell biology and genetics. The realization of such a 
-goal will require a lot of work, but the expected result justifies it.
+Heterogeneity among both primed and naive pluripotent stem cell lines remains a 
+major unresolved problem. Here we show that expressing the maternal-specific 
+linker histone H1FOO fused to a destabilizing domain (H1FOO-DD), together with 
+OCT4, SOX2, KLF4, and LMYC, in human somatic cells improves the quality of 
+reprogramming to both primed and naive pluripotency. H1FOO-DD expression was 
+associated with altered chromatin accessibility around pluripotency genes and 
+with suppression of the innate immune response. Notably, H1FOO-DD generates 
+naive induced pluripotent stem cells with lower variation in transcriptome and 
+methylome among clones and a more uniform and superior differentiation potency. 
+Furthermore, we elucidated that upregulation of FKBP1A, driven by these five 
+factors, plays a key role in H1FOO-DD-mediated reprogramming.
 
-Copyright © 2024 Salnikov.
+Copyright © 2024 The Author(s). Published by Elsevier Inc. All rights reserved.
 
-DOI: 10.3389/fragi.2024.1429156
-PMCID: PMC11317467
-PMID: 39136004
+DOI: 10.1016/j.stemcr.2024.04.005
+PMCID: PMC11103934
+PMID: 38701780 [Indexed for MEDLINE]
 
-Conflict of interest statement: Author LS, employed by AntiCa Biomed.
+Conflict of interest statement: Declaration of interests A.K. and K.F. are 
+co-inventors on a patent describing the method for producing human iPSCs from 
+somatic cells using H1FOO-DD. K.F. is a co-founder and CEO of Heartseed Inc., 
+and S.T., S. Yuasa, and K.F. own equity in Heartseed Inc. S.T. is an advisor of 
+Heartseed Inc. J.K. and H.H. are employees and K.K. is a board member of ID 
+Pharma Co., Ltd., without compensation relating to this study. S. Yamanaka is a 
+scientific advisor to iPS Academia Japan without salary.
 
 ========Articulos no encontrados==========.
 
@@ -49,228 +70,231 @@ Conflict of interest statement: Author LS, employed by AntiCa Biomed.
 =======================ABSTRACT 2========================
 
 
-1. Front Aging. 2023 Mar 14;4:1143334. doi: 10.3389/fragi.2023.1143334.
-eCollection  2023.
+1. Stem Cell Reports. 2023 Aug 8;18(8):1547-1548. doi: 
+10.1016/j.stemcr.2023.06.010.
 
-The RNA-Seq data analysis shows how the ontogenesis defines aging.
+Pluripotent stem cell-based therapies and their path to the clinic.
 
-Salnikov L(1), Goldberg S(2), Rijhwani H(3), Shi Y(4), Pinsky E(3).
+Takayama K(1), Yamanaka S(2).
 
 Author information:
-(1)AntiCA Biomed, San Diego, CA, United States.
-(2)Department of Radiation Oncology, Mass General Hospital, Boston, MA, United 
-Kingdom.
-(3)Department of Computer Science, Met College, Boston University, Boston, MA, 
-United Kingdom.
-(4)Department of Computer Science, Brandeis University, Waltham, MA, United 
-Kingdom.
+(1)Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto, 
+Japan. Electronic address: kazuo.takayama@cira.kyoto-u.ac.jp.
+(2)Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto, 
+Japan; CiRA Foundation, Kyoto, Japan; Gladstone Institute of Cardiovascular 
+Disease, San Francisco, USA. Electronic address: yamanaka@cira.kyoto-u.ac.jp.
 
-This paper presents a global statistical analysis of the RNA-Seq results of the 
-entire Mus musculus genome. We explain aging by a gradual redistribution of 
-limited resources between two major tasks of the organism: its self-sustenance 
-based on the function of the housekeeping gene group (HG) and functional 
-differentiation provided by the integrative gene group (IntG). All known 
-disorders associated with aging are the result of a deficiency in the repair 
-processes provided by the cellular infrastructure. Understanding exactly how 
-this deficiency arises is our primary goal. Analysis of RNA production data of 
-35,630 genes, from which 5,101 were identified as HG genes, showed that RNA 
-production levels in the HG and IntG genes had statistically significant 
-differences (p-value <0.0001) throughout the entire observation period. In the 
-reproductive period of life, which has the lowest actual mortality risk for Mus 
-musculus, changes in the age dynamics of RNA production occur. The statistically 
-significant dynamics of the decrease of RNA production in the HG group in 
-contrast to the IntG group was determined (p-value = 0.0045). The trend toward 
-significant shift in the HG/IntG ratio occurs after the end of the reproductive 
-period, coinciding with the beginning of the mortality rate increase in Mus 
-musculus indirectly supports our hypothesis. The results demonstrate a different 
-orientation of the impact of ontogenesis regulatory mechanisms on the groups of 
-genes representing cell infrastructures and their organismal functions, making 
-the chosen direction promising for further research and understanding the 
-mechanisms of aging.
+DOI: 10.1016/j.stemcr.2023.06.010
+PMCID: PMC10444574
+PMID: 37557071 [Indexed for MEDLINE]
 
-Copyright © 2023 Salnikov, Goldberg, Rijhwani, Shi and Pinsky.
+========Articulos no encontrados==========.
 
-DOI: 10.3389/fragi.2023.1143334
-PMCID: PMC10046809
-PMID: 36999000
-
-Conflict of interest statement: Author Lev Salnikov, was employed by AntiCa 
-Biomed. The remaining authors declare that the research was conducted in the 
-absence of any commercial or financial relationships that could be construed as 
-a potential conflict of interest.39136004
 
 
 =======================ABSTRACT 3========================
 
 
-1. Biochemistry (Mosc). 2022 Dec;87(12):1498-1503. doi:
-10.1134/S0006297922120070.
+1. Dev Cell. 2023 Aug 21;58(16):1477-1488.e5. doi: 10.1016/j.devcel.2023.05.019. 
+Epub 2023 Jun 23.
 
-Aging is a Side Effect of the Ontogenesis Program of Multicellular Organisms.
+Loss of TJP1 disrupts gastrulation patterning and increases differentiation 
+toward the germ cell lineage in human pluripotent stem cells.
 
-Salnikov L(1).
+Vasic I(1), Libby ARG(2), Maslan A(3), Bulger EA(2), Zalazar D(4), Krakora 
+Compagno MZ(4), Streets A(5), Tomoda K(6), Yamanaka S(7), McDevitt TC(8).
 
 Author information:
-(1)AntiCA Biomed San Diego, CA 92111, USA. lsalnikov@anticabiomed.com.
+(1)Gladstone Institute of Cardiovascular Disease, Gladstone Institutes, San 
+Francisco, CA 94158, USA; UC Berkeley-UC San Francisco Graduate Program in 
+Bioengineering, University of California, San Francisco, San Francisco, CA 
+94158, USA.
+(2)Gladstone Institute of Cardiovascular Disease, Gladstone Institutes, San 
+Francisco, CA 94158, USA; Developmental and Stem Cell Biology Ph.D. Program, 
+University of California, San Francisco, San Francisco, CA 94158, USA.
+(3)UC Berkeley-UC San Francisco Graduate Program in Bioengineering, University 
+of California, San Francisco, San Francisco, CA 94158, USA; Department of 
+Bioengineering, University of California, Berkeley, Berkeley, CA 94720, USA; 
+Center for Computational Biology, University of California, Berkeley, Berkeley, 
+CA 94720, USA.
+(4)Gladstone Institute of Cardiovascular Disease, Gladstone Institutes, San 
+Francisco, CA 94158, USA.
+(5)UC Berkeley-UC San Francisco Graduate Program in Bioengineering, University 
+of California, San Francisco, San Francisco, CA 94158, USA; Department of 
+Bioengineering, University of California, Berkeley, Berkeley, CA 94720, USA; 
+Center for Computational Biology, University of California, Berkeley, Berkeley, 
+CA 94720, USA; Chan Zuckerberg Biohub, San Francisco, CA 94158, USA.
+(6)Gladstone Institute of Cardiovascular Disease, Gladstone Institutes, San 
+Francisco, CA 94158, USA; Center for iPS Cell Research and Application, Kyoto 
+606-8397, Japan.
+(7)Gladstone Institute of Cardiovascular Disease, Gladstone Institutes, San 
+Francisco, CA 94158, USA; Center for iPS Cell Research and Application, Kyoto 
+606-8397, Japan. Electronic address: shinya.yamanaka@gladstone.ucsf.edu.
+(8)Gladstone Institute of Cardiovascular Disease, Gladstone Institutes, San 
+Francisco, CA 94158, USA; Department of Bioengineering and Therapeutic Sciences, 
+University of California, San Francisco, San Francisco, CA 94158, USA. 
+Electronic address: todd.mcdevitt@gladstone.ucsf.edu.
 
-The review presents a brief outline of the current state of the main theoretical 
-approaches to the aging problem. The works of authors, supporting the theory of 
-"accumulation of errors" and theories stating the presence of a hypothetical 
-"aging program" in all multicellular organisms are reviewed. The role of 
-apoptosis and its connection with phenoptosis, as well as the theory of 
-"hyperfunction" are analyzed. Our own approach to this problem is presented, in 
-which aging is explained by the redistribution of limited resources between the 
-two main aims of the organism: its self-sufficiency, based on the function of 
-the housekeeping genes (HG) group, and functional specialization, provided by 
-the integrative genes (IntG) group. Agreeing with the inseparable connection 
-between aging and the ontogenesis program, the main role in the aging mechanisms 
-is assigned to the redistribution of resources from the HG self-sufficiency 
-genes to the IntGs necessary for the operation of all specialized functions of 
-the organism as a whole. The growing imbalance between HGs and IntGs with age, 
-suggests that switching of cellular resources in favor of IntGs is a side effect 
-of ontogenesis program implementation and the main reason for aging, inherent in 
-the nature of genome functioning under conditions of highly integrated 
-multicellularity. The hypothesis of functional subdivision of the genome also 
-points to the leading role of slow-dividing and postmitotic cells, as the most 
-sensitive to reduction of repair levels, for triggering and realization of the 
-aging process.
+Comment in
+    Nat Rev Mol Cell Biol. 2023 Aug;24(8):521. doi: 10.1038/s41580-023-00634-7.
 
-DOI: 10.1134/S0006297922120070
-PMID: 36717443 [Indexed for MEDLINE]39136004
+Biological patterning events that occur early in development establish proper 
+tissue morphogenesis. Identifying the mechanisms that guide these patterning 
+events is necessary in order to understand the molecular drivers of development 
+and disease and to build tissues in vitro. In this study, we use an in vitro 
+model of gastrulation to study the role of tight junctions and 
+apical/basolateral polarity in modulating bone morphogenic protein-4 (BMP4) 
+signaling and gastrulation-associated patterning in colonies of human 
+pluripotent stem cells (hPSCs). Disrupting tight junctions via knockdown (KD) of 
+the scaffolding tight junction protein-1 (TJP1, also known as ZO1) allows BMP4 
+to robustly and ubiquitously activate pSMAD1/5 signaling over time, resulting in 
+loss of the patterning phenotype and marked differentiation bias of pluripotent 
+stem cells to primordial germ cell-like cells (PGCLCs). These findings give 
+important insights into how signaling events are regulated and lead to spatial 
+emergence of diverse cell types in vitro.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.devcel.2023.05.019
+PMCID: PMC10529434
+PMID: 37354899 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests I.V. is the founder and 
+Chief Executive Officer of Vitra Labs, Inc. K.T. is on the scientific advisory 
+board of I Peace, Inc., without salary. S.Y. is a scientific advisor to iPS 
+Academia Japan, Orizuru Therapeutics, and Altos Labs without salary. T.C.M. is 
+Vice President of Cell Engineering at SanaX. I.V. and T.C.M. are inventors on a 
+patent filing by the Gladstone Institutes and the University of California, San 
+Francisco, relating to high-throughput generation of primordial germ cell-like 
+cells (PGCLCs).39026707
+
+=====IDs Articulos Citadores====
+38585971
+
+=====IDs Articulos Citadores====
+38411343
 
 
 =======================ABSTRACT 4========================
 
 
-1. Front Aging. 2021 Mar 25;2:655315. doi: 10.3389/fragi.2021.655315. eCollection
- 2021.
+1. Cell Rep Methods. 2022 Oct 17;2(11):100317. doi: 10.1016/j.crmeth.2022.100317.
+ eCollection 2022 Nov 21.
 
-From Autonomy to Integration, From Integration to Dynamically Balanced 
-Integrated Co-existence: Non-aging as the Third Stage of Development.
+Improved Sendai viral system for reprogramming to naive pluripotency.
 
-Salnikov L(1), Baramiya MG(2).
+Kunitomi A(1)(2), Hirohata R(1)(3), Arreola V(2), Osawa M(1), Kato TM(1)(3), 
+Nomura M(1)(3), Kawaguchi J(4), Hara H(4), Kusano K(4), Takashima Y(1), 
+Takahashi K(1), Fukuda K(5), Takasu N(1)(3), Yamanaka S(1)(2)(3)(6).
 
 Author information:
-(1)SibEnzyme US LLC, West Roxbury, MA, United States.
-(2)AntiCancer, Inc., San Diego, CA, United States.
+(1)Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto 
+606-8507, Japan.
+(2)Gladstone Institute of Cardiovascular Disease, San Francisco, CA 94158, USA.
+(3)CiRA Foundation, Kyoto 606-8397, Japan.
+(4)ID Pharma Co., Ltd., Ibaraki 300-2611, Japan.
+(5)Department of Cardiology, Keio University School of Medicine, Tokyo 160-8582, 
+Japan.
+(6)Department of Anatomy, University of California San Francisco, San Francisco, 
+CA 94143, USA.
 
-Reversible senescence at the cellular level emerged together with tissue 
-specialization in Metazoans. However, this reversibility (ability to permanently 
-rejuvenate) through recapitulation of early stages of development, was 
-originally a part of ontogenesis, since the pressure of integrativeness was not 
-dominant. The complication of specialization in phylogenesis narrowed this 
-"freedom of maneuver", gradually "truncating" remorphogenesis to local 
-epimorphosis and further up to the complete disappearance of remorphogenesis 
-from the ontogenesis repertoire. This evolutionary trend transformed cellular 
-senescence into organismal aging and any recapitulation of autonomy into 
-carcinogenesis. The crown of specialization, Homo sapiens, completed this 
-post-unicellular stage of development, while in the genome all the potential for 
-the next stage of development, which can be called the stage of balanced 
-coexistence of autonomous and integrative dominants within a single whole. Here, 
-completing the substantiation of the new section of developmental biology, we 
-propose to call it Developmental Biogerontology.
+Comment in
+    Cell Rep Methods. 2022 Nov 21;2(11):100349. doi: 
+10.1016/j.crmeth.2022.100349.
 
-Copyright © 2021 Salnikov and Baramiya.
+Naive human induced pluripotent stem cells (iPSCs) can be generated by 
+reprogramming somatic cells with Sendai virus (SeV) vectors. However, only 
+dermal fibroblasts have been successfully reprogrammed this way, and the process 
+requires culture on feeder cells. Moreover, SeV vectors are highly persistent 
+and inhibit subsequent differentiation of iPSCs. Here, we report a modified SeV 
+vector system to generate transgene-free naive human iPSCs with superior 
+differentiation potential. The modified method can be applied not only to 
+fibroblasts but also to other somatic cell types. SeV vectors disappear quickly 
+at early passages, and this approach enables the generation of naive iPSCs in a 
+feeder-free culture. The naive iPSCs generated by this method show better 
+differentiation to trilineage and extra-embryonic trophectoderm than those 
+derived by conventional methods. This method can expand the application of iPSCs 
+to research on early human development and regenerative medicine.
 
-DOI: 10.3389/fragi.2021.655315
-PMCID: PMC9261420
-PMID: 35822034
+© 2022 The Authors.
 
-Conflict of interest statement: LS was employed by the company SibEnzyme US LLC. 
-MGB was employed by AntiCancer Inc. The remaining authors declare that the 
-research was conducted in the absence of any commercial or financial 
-relationships that could be construed as a potential conflict of interest.39136004
+DOI: 10.1016/j.crmeth.2022.100317
+PMCID: PMC9701587
+PMID: 36447645 [Indexed for MEDLINE]
+
+Conflict of interest statement: A.K. and J.K. are co-inventors on a patent 
+describing the method for producing naive human iPSCs from somatic cells. J.K. 
+and H.H. are employees and K.K. is a board member of ID Pharma Co., Ltd., 
+without compensation relating to this study. K.T. is on the scientific advisory 
+board of I Peace, Inc., without salary. S.Y. is a scientific advisor to iPS 
+Academia Japan without salary.39139714
 
 =====IDs Articulos Citadores====
-36999000
+38790204
+
+=====IDs Articulos Citadores====
+38701780
 
 
 =======================ABSTRACT 5========================
 
 
-1. Front Aging. 2020 Nov 16;1:608076. doi: 10.3389/fragi.2020.608076. eCollection
- 2020.
+1. Med. 2023 Jan 13;4(1):51-66.e10. doi: 10.1016/j.medj.2022.10.003. Epub 2022
+Nov  16.
 
-The Ratio of the Genome Two Functional Parts Activity as the Prime Cause of 
-Aging.
+A clinical-grade HLA haplobank of human induced pluripotent stem cells matching 
+approximately 40% of the Japanese population.
 
-Salnikov L(1), Baramiya MG(2).
-
-Author information:
-(1)SibEnzyme US LLC, West Roxbury, MA, United States.
-(2)AntiCancer, Inc., San Diego, CA, United States.
-
-The metazoan genome composes of sets of housekeeping genes (HG) for fundamental 
-cellular autonomous processes and integrative genes (IntG) that provide 
-integrative functions and form the body as an integrated whole. The main 
-paradigm for multicellularity development which has been improved in evolution, 
-is the submission of the cellular autonomy to the interests of the integrated 
-whole. Permanent increase of the "functional tax" of IntG-genome (IntG-shift) 
-and epigenetic restriction of autonomy in phylogenesis/ontogenesis is the 
-essence and root cause of aging, inherent in the very nature of highly 
-integrated multicellularity. The regulation of the balance shift toward HG can 
-be managed to eliminate aging and avoid carcinogenesis, which is only due to the 
-irreversibility of this shift. Here we propose the criterion for measuring the 
-functional and biological age of cells and the body as a whole for assessing the 
-effectiveness of any type of palliative geroprotective or radical anti-aging 
-intervention.
-
-Copyright © 2020 Salnikov and Baramiya.
-
-DOI: 10.3389/fragi.2020.608076
-PMCID: PMC9261360
-PMID: 3582216739136004
-
-=====IDs Articulos Citadores====
-36999000
-
-=====IDs Articulos Citadores====
-34512728
-
-
-=======================ABSTRACT 6========================
-
-
-1. Future Sci OA. 2020 Jun 30;6(8):FSO610. doi: 10.2144/fsoa-2020-0085.
-
-From cancer to rejuvenation: incomplete regeneration as the missing link (part 
-II: rejuvenation circle).
-
-Baramiya MG(1), Baranov E(1), Saburina I(2)(3), Salnikov L(4).
+Yoshida S(1), Kato TM(1), Sato Y(2), Umekage M(1), Ichisaka T(1), Tsukahara 
+M(3), Takasu N(1), Yamanaka S(4).
 
 Author information:
-(1)AntiCancer, Inc., San Diego, CA 92111, USA.
-(2)Institute of General Pathology & Pathophysiology, Moscow, Russia.
-(3)Russian Medical Academy of Continuous Professional Education, Moscow, Russia.
-(4)Department of Computer Science, Metropolitan College, Boston University, USA.
+(1)CiRA Foundation, 53 Shogoin kawahara-cho, Sakyo-ku, Kyoto 606-8397, Japan.
+(2)Center for iPS Cell Research and Application, Kyoto University, 53 Shogoin 
+Kawahara-cho, Sakyo-ku, Kyoto 606-8507, Japan.
+(3)CiRA Foundation, 53 Shogoin kawahara-cho, Sakyo-ku, Kyoto 606-8397, Japan. 
+Electronic address: masayoshi.tsukahara@cira-foundation.or.jp.
+(4)CiRA Foundation, 53 Shogoin kawahara-cho, Sakyo-ku, Kyoto 606-8397, Japan; 
+Center for iPS Cell Research and Application, Kyoto University, 53 Shogoin 
+Kawahara-cho, Sakyo-ku, Kyoto 606-8507, Japan; Gladstone Institute of 
+Cardiovascular Disease, San Francisco, CA 94158, USA. Electronic address: 
+yamanaka@cira.kyoto-u.ac.jp.
 
-In the first part of our study, we substantiated that the embryonic 
-reontogenesis and malignant growth (disintegrating growth) pathways are the 
-same, but occur at different stages of ontogenesis, this mechanism is carried 
-out in opposite directions. Cancer has been shown to be epigenetic-blocked 
-redifferentiation and unfinished somatic embryogenesis. We formulated that only 
-this approach of aging elimination has real prospects for a future that is 
-fraught with cancer, as we will be able to convert this risk into a rejuvenation 
-process through the continuous cycling of cell dedifferentiation-differentiation 
-processes (permanent remorphogenesis). Here, we continue to develop the idea of 
-looped ontogenesis and formulate the concept of the rejuvenation circle.
+BACKGROUND: Human induced pluripotent stem cells (iPSCs) are expected to be 
+useful for regenerative medicine for many diseases. Many researchers have 
+focused on and enabled the generation of differentiated cells or tissue-like 
+structures, including organoids, which help to ameliorate target diseases. To 
+promote such cell therapies, we established a clinically applicable iPSC 
+haplobank matching as many people as possible in Japan.
+METHODS: Through cooperation with several organizations, we recruited donors 
+whose human leukocyte antigens (HLAs) involved in immunorejection were 
+homozygous. The peripheral or umbilical cord blood collected from the donors was 
+used for iPSC production by electroporation of episomal vectors. These iPSC 
+lines were then subjected to testing, including genome analyses and sterility, 
+to maximize safety.
+FINDINGS: We constructed a clinical-grade haplobank of 27 iPSC lines from 7 
+donors according to good manufacturing practice regulations. However, reasons to 
+avoid using iPSC lines include the presence of residual episomal vectors or 
+genetic mutations in cancer-related genes.
+CONCLUSIONS: This haplobank provides HLA-matched iPSC lines for approximately 
+40% of the Japanese population. Since the haplobank's release in 2015, these 
+iPSC lines have been used in more than 10 clinical trials. The establishment of 
+this haplobank is an important step toward the clinical application of iPSCs in 
+cell therapies.
+FUNDING: This study was supported by a research center network for 
+the realization of regenerative medicine of the Japan Agency for Medical 
+Research and Development (AMED) under grant number JP20bm0104001h0108.
 
-© 2020 Mamuka G. Baramiya.
+Copyright © 2022 The Author(s). Published by Elsevier Inc. All rights reserved.
 
-DOI: 10.2144/fsoa-2020-0085
-PMCID: PMC7491027
-PMID: 32983567
+DOI: 10.1016/j.medj.2022.10.003
+PMID: 36395757 [Indexed for MEDLINE]
 
-Conflict of interest statement: Financial & competing interests disclosure The 
-authors have no relevant affiliations or financial involvement with any 
-organization or entity with a financial interest in or financial conflict with 
-the subject matter or materials discussed in the manuscript. This includes 
-employment, consultancies, honoraria, stock ownership or options, expert 
-testimony, grants or patents received or pending, or royalties. No writing 
-assistance was utilized in the production of this manuscript.39136004
+Conflict of interest statement: Declaration of interests S. Yamanaka is a member 
+of the advisory board of MED.38670977
 
 =====IDs Articulos Citadores====
-37107559
+38667286
 
 =====IDs Articulos Citadores====
-35822167
+38650946

@@ -38,9 +38,9 @@ def Archivo_IDs(ids, filename):
 # ===========================================================================
 
 
-autor = input("Introduce al autor: ")   # Autor a buscar "Lev Salnikov"
-palabra1 = input("Introduce la primera palabra clave: ")   # 1° Palabra clave en el título "rejuvenation" 
-palabra2 = input("Introduce la segunda palabra clave: ")   # 2° Palabra clave en el título "aging"
+autor = input("Introduce al autor: ")   # Autor a buscar "Shinya Yamanaka"
+palabra1 = input("Introduce la primera palabra clave: ")   # 1° Palabra clave en el título "pluripotency" 
+palabra2 = input("Introduce la segunda palabra clave: ")   # 2° Palabra clave en el título "pluripotent"
 ids = Busqueda_articulos(autor, palabra1, palabra2)
 
 # Guardar los IDs en un archivo
