@@ -41,3 +41,236 @@ PMCID: PMC11317467
 PMID: 39136004
 
 Conflict of interest statement: Author LS, employed by AntiCa Biomed.
+
+========Articulos no encontrados==========.
+
+
+
+=======================ABSTRACT 2========================
+
+
+1. Front Aging. 2023 Mar 14;4:1143334. doi: 10.3389/fragi.2023.1143334.
+eCollection  2023.
+
+The RNA-Seq data analysis shows how the ontogenesis defines aging.
+
+Salnikov L(1), Goldberg S(2), Rijhwani H(3), Shi Y(4), Pinsky E(3).
+
+Author information:
+(1)AntiCA Biomed, San Diego, CA, United States.
+(2)Department of Radiation Oncology, Mass General Hospital, Boston, MA, United 
+Kingdom.
+(3)Department of Computer Science, Met College, Boston University, Boston, MA, 
+United Kingdom.
+(4)Department of Computer Science, Brandeis University, Waltham, MA, United 
+Kingdom.
+
+This paper presents a global statistical analysis of the RNA-Seq results of the 
+entire Mus musculus genome. We explain aging by a gradual redistribution of 
+limited resources between two major tasks of the organism: its self-sustenance 
+based on the function of the housekeeping gene group (HG) and functional 
+differentiation provided by the integrative gene group (IntG). All known 
+disorders associated with aging are the result of a deficiency in the repair 
+processes provided by the cellular infrastructure. Understanding exactly how 
+this deficiency arises is our primary goal. Analysis of RNA production data of 
+35,630 genes, from which 5,101 were identified as HG genes, showed that RNA 
+production levels in the HG and IntG genes had statistically significant 
+differences (p-value <0.0001) throughout the entire observation period. In the 
+reproductive period of life, which has the lowest actual mortality risk for Mus 
+musculus, changes in the age dynamics of RNA production occur. The statistically 
+significant dynamics of the decrease of RNA production in the HG group in 
+contrast to the IntG group was determined (p-value = 0.0045). The trend toward 
+significant shift in the HG/IntG ratio occurs after the end of the reproductive 
+period, coinciding with the beginning of the mortality rate increase in Mus 
+musculus indirectly supports our hypothesis. The results demonstrate a different 
+orientation of the impact of ontogenesis regulatory mechanisms on the groups of 
+genes representing cell infrastructures and their organismal functions, making 
+the chosen direction promising for further research and understanding the 
+mechanisms of aging.
+
+Copyright © 2023 Salnikov, Goldberg, Rijhwani, Shi and Pinsky.
+
+DOI: 10.3389/fragi.2023.1143334
+PMCID: PMC10046809
+PMID: 36999000
+
+Conflict of interest statement: Author Lev Salnikov, was employed by AntiCa 
+Biomed. The remaining authors declare that the research was conducted in the 
+absence of any commercial or financial relationships that could be construed as 
+a potential conflict of interest.39136004
+
+
+=======================ABSTRACT 3========================
+
+
+1. Biochemistry (Mosc). 2022 Dec;87(12):1498-1503. doi:
+10.1134/S0006297922120070.
+
+Aging is a Side Effect of the Ontogenesis Program of Multicellular Organisms.
+
+Salnikov L(1).
+
+Author information:
+(1)AntiCA Biomed San Diego, CA 92111, USA. lsalnikov@anticabiomed.com.
+
+The review presents a brief outline of the current state of the main theoretical 
+approaches to the aging problem. The works of authors, supporting the theory of 
+"accumulation of errors" and theories stating the presence of a hypothetical 
+"aging program" in all multicellular organisms are reviewed. The role of 
+apoptosis and its connection with phenoptosis, as well as the theory of 
+"hyperfunction" are analyzed. Our own approach to this problem is presented, in 
+which aging is explained by the redistribution of limited resources between the 
+two main aims of the organism: its self-sufficiency, based on the function of 
+the housekeeping genes (HG) group, and functional specialization, provided by 
+the integrative genes (IntG) group. Agreeing with the inseparable connection 
+between aging and the ontogenesis program, the main role in the aging mechanisms 
+is assigned to the redistribution of resources from the HG self-sufficiency 
+genes to the IntGs necessary for the operation of all specialized functions of 
+the organism as a whole. The growing imbalance between HGs and IntGs with age, 
+suggests that switching of cellular resources in favor of IntGs is a side effect 
+of ontogenesis program implementation and the main reason for aging, inherent in 
+the nature of genome functioning under conditions of highly integrated 
+multicellularity. The hypothesis of functional subdivision of the genome also 
+points to the leading role of slow-dividing and postmitotic cells, as the most 
+sensitive to reduction of repair levels, for triggering and realization of the 
+aging process.
+
+DOI: 10.1134/S0006297922120070
+PMID: 36717443 [Indexed for MEDLINE]39136004
+
+
+=======================ABSTRACT 4========================
+
+
+1. Front Aging. 2021 Mar 25;2:655315. doi: 10.3389/fragi.2021.655315. eCollection
+ 2021.
+
+From Autonomy to Integration, From Integration to Dynamically Balanced 
+Integrated Co-existence: Non-aging as the Third Stage of Development.
+
+Salnikov L(1), Baramiya MG(2).
+
+Author information:
+(1)SibEnzyme US LLC, West Roxbury, MA, United States.
+(2)AntiCancer, Inc., San Diego, CA, United States.
+
+Reversible senescence at the cellular level emerged together with tissue 
+specialization in Metazoans. However, this reversibility (ability to permanently 
+rejuvenate) through recapitulation of early stages of development, was 
+originally a part of ontogenesis, since the pressure of integrativeness was not 
+dominant. The complication of specialization in phylogenesis narrowed this 
+"freedom of maneuver", gradually "truncating" remorphogenesis to local 
+epimorphosis and further up to the complete disappearance of remorphogenesis 
+from the ontogenesis repertoire. This evolutionary trend transformed cellular 
+senescence into organismal aging and any recapitulation of autonomy into 
+carcinogenesis. The crown of specialization, Homo sapiens, completed this 
+post-unicellular stage of development, while in the genome all the potential for 
+the next stage of development, which can be called the stage of balanced 
+coexistence of autonomous and integrative dominants within a single whole. Here, 
+completing the substantiation of the new section of developmental biology, we 
+propose to call it Developmental Biogerontology.
+
+Copyright © 2021 Salnikov and Baramiya.
+
+DOI: 10.3389/fragi.2021.655315
+PMCID: PMC9261420
+PMID: 35822034
+
+Conflict of interest statement: LS was employed by the company SibEnzyme US LLC. 
+MGB was employed by AntiCancer Inc. The remaining authors declare that the 
+research was conducted in the absence of any commercial or financial 
+relationships that could be construed as a potential conflict of interest.39136004
+
+=====IDs Articulos Citadores====
+36999000
+
+
+=======================ABSTRACT 5========================
+
+
+1. Front Aging. 2020 Nov 16;1:608076. doi: 10.3389/fragi.2020.608076. eCollection
+ 2020.
+
+The Ratio of the Genome Two Functional Parts Activity as the Prime Cause of 
+Aging.
+
+Salnikov L(1), Baramiya MG(2).
+
+Author information:
+(1)SibEnzyme US LLC, West Roxbury, MA, United States.
+(2)AntiCancer, Inc., San Diego, CA, United States.
+
+The metazoan genome composes of sets of housekeeping genes (HG) for fundamental 
+cellular autonomous processes and integrative genes (IntG) that provide 
+integrative functions and form the body as an integrated whole. The main 
+paradigm for multicellularity development which has been improved in evolution, 
+is the submission of the cellular autonomy to the interests of the integrated 
+whole. Permanent increase of the "functional tax" of IntG-genome (IntG-shift) 
+and epigenetic restriction of autonomy in phylogenesis/ontogenesis is the 
+essence and root cause of aging, inherent in the very nature of highly 
+integrated multicellularity. The regulation of the balance shift toward HG can 
+be managed to eliminate aging and avoid carcinogenesis, which is only due to the 
+irreversibility of this shift. Here we propose the criterion for measuring the 
+functional and biological age of cells and the body as a whole for assessing the 
+effectiveness of any type of palliative geroprotective or radical anti-aging 
+intervention.
+
+Copyright © 2020 Salnikov and Baramiya.
+
+DOI: 10.3389/fragi.2020.608076
+PMCID: PMC9261360
+PMID: 3582216739136004
+
+=====IDs Articulos Citadores====
+36999000
+
+=====IDs Articulos Citadores====
+34512728
+
+
+=======================ABSTRACT 6========================
+
+
+1. Future Sci OA. 2020 Jun 30;6(8):FSO610. doi: 10.2144/fsoa-2020-0085.
+
+From cancer to rejuvenation: incomplete regeneration as the missing link (part 
+II: rejuvenation circle).
+
+Baramiya MG(1), Baranov E(1), Saburina I(2)(3), Salnikov L(4).
+
+Author information:
+(1)AntiCancer, Inc., San Diego, CA 92111, USA.
+(2)Institute of General Pathology & Pathophysiology, Moscow, Russia.
+(3)Russian Medical Academy of Continuous Professional Education, Moscow, Russia.
+(4)Department of Computer Science, Metropolitan College, Boston University, USA.
+
+In the first part of our study, we substantiated that the embryonic 
+reontogenesis and malignant growth (disintegrating growth) pathways are the 
+same, but occur at different stages of ontogenesis, this mechanism is carried 
+out in opposite directions. Cancer has been shown to be epigenetic-blocked 
+redifferentiation and unfinished somatic embryogenesis. We formulated that only 
+this approach of aging elimination has real prospects for a future that is 
+fraught with cancer, as we will be able to convert this risk into a rejuvenation 
+process through the continuous cycling of cell dedifferentiation-differentiation 
+processes (permanent remorphogenesis). Here, we continue to develop the idea of 
+looped ontogenesis and formulate the concept of the rejuvenation circle.
+
+© 2020 Mamuka G. Baramiya.
+
+DOI: 10.2144/fsoa-2020-0085
+PMCID: PMC7491027
+PMID: 32983567
+
+Conflict of interest statement: Financial & competing interests disclosure The 
+authors have no relevant affiliations or financial involvement with any 
+organization or entity with a financial interest in or financial conflict with 
+the subject matter or materials discussed in the manuscript. This includes 
+employment, consultancies, honoraria, stock ownership or options, expert 
+testimony, grants or patents received or pending, or royalties. No writing 
+assistance was utilized in the production of this manuscript.39136004
+
+=====IDs Articulos Citadores====
+37107559
+
+=====IDs Articulos Citadores====
+35822167

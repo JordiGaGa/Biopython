@@ -42,7 +42,7 @@ with open(r"C:\Users\jordi\OneDrive\Escritorio\Biopython\ID_citas.txt", 'w') as 
                 if records:
                     citas = [link["Id"] for link in records[0]["LinkSetDb"][0]["Link"][:3]]
             except IndexError:
-                exit()
+                pass
 
             # Añadir los IDs de los artículos citantes al archivo
             if citas:

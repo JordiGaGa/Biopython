@@ -18,6 +18,7 @@ handle = Entrez.esearch(db = "protein", term = "DEFA AND Aedes aegypti[Orgn]")
 record = Entrez.read(handle)
 # Tomo el primer elemento del IdList
 prot_id = record["IdList"][0]
+print(prot_id)
 # Busco ese elemento en la base de datos protein 
 handle =  Entrez.efetch(db="protein", id=prot_id, rettype="gb", retmode="text")
 record = SeqIO.read(handle, "genbank")
